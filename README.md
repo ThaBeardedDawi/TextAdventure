@@ -1,5 +1,5 @@
 ## MaQuest
-gamedeveloper Bram Koning
+gamedeveloper Bram Koning groeten van Jelle
 
 ### Korte omschrijving van de game
 ...
