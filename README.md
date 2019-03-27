@@ -1,14 +1,14 @@
 ## MaQuest
-gamedeveloper Bram Koning groeten van Jelle
+gamedeveloper Bram Koning
 
 ### Korte omschrijving van de game
-...
+Een kleine text adventure game gebasseerd op de gangen van het MA
 
 ---
 #### Producten Werkproces
-| Product  | Link |
+| Git  | https://github.com/ThaBeardedDawi/TextAdventure |
 | ------ |  ------ |
-| Link naar live demo| [LiveDemo]
+| Link naar live demo| [Geen geld voor een live Demo, en moet even hulp zoeken met het MA gebeuren. Dit komt later!]
 | frontend ontwerpen voor computer en smartpnone (pdf) | [Design]
 | Plattegrond van jouw labyrinth            | [Map]
 |<img width=500/>|<img width=300/>|
